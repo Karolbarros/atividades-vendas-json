@@ -1,0 +1,11 @@
+{
+    "dataVenda": "10/04/2007",
+    "produtos": [
+        {
+            "_Produto__nome": "garrafa",
+            "_Produto__preco": 10.0,
+            "_Produto__quantidade": 30
+        }
+    ],
+    "total": 300.0
+}
